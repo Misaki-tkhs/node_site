@@ -1,3 +1,5 @@
+// MySQLからデータを取得するコーディングです
+
 const express = require("express");
 const app = express();
 
